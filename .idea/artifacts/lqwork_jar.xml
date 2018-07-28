@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lqwork:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lqwork_jar</output-path>
+    <root id="archive" name="lqwork.jar">
+      <element id="module-output" name="lqwork" />
+      <element id="extracted-dir" path="F:/App/Maven/repository/org/apache/kafka/kafka_2.11/0.8.2.1/kafka_2.11-0.8.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/Package/spark-redis-0.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/App/Maven/repository/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/App/Maven/repository/org/apache/spark/spark-streaming-kafka-0-8_2.11/2.1.1/spark-streaming-kafka-0-8_2.11-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/App/Maven/repository/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/App/Maven/repository/com/101tec/zkclient/0.3/zkclient-0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/App/Maven/repository/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/App/Maven/repository/org/json/json/20170516/json-20170516.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/App/Maven/repository/redis/clients/jedis/2.9.0/jedis-2.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/App/Maven/repository/org/apache/commons/commons-pool2/2.5.0/commons-pool2-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/App/Maven/repository/com/typesafe/config/1.3.1/config-1.3.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
